@@ -1,13 +1,13 @@
 [
   {
     "name": "drums",
-    "file": "samples/crate drums.mp3",
+    "file": "samples/crate_drums.mp3",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "guitar",
-    "file": "samples/happy place guitar.mp3",
+    "file": "samples/happy_place_guitar.mp3",
     "bpm": "120",
     "loop": "3m"
   },
